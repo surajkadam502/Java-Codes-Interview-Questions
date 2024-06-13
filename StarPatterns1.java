@@ -14,5 +14,6 @@ public class StarPatterns1 {
             }
             System.out.println();
         }
+        System.out.println("Just for GitHub Verification !!!");
     }
 }
