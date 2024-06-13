@@ -12,5 +12,9 @@ public class StarPatterns2
 		   }
 		   System.out.println("");
 	   }
+	   
+	   System.out.println("Changes Only for GitHub");
+	   System.out.println("Changes Only for GitHub Project updates");
+
 	}
 }
